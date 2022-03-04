@@ -1,1 +1,3 @@
 # registerClient
+
+npm install
